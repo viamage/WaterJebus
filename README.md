@@ -1,6 +1,8 @@
 # Water Jebus
 
-![water_jebus](https://i.viamage.com/jz/snapshot-2020-04-20-18-28-33.png)
+### Jebus Islands
+
+![water_jebus](https://i.viamage.com/jz/snapshot-2020-04-20-18-50-41.png)
 
 This template is attempt to make a working H3 HoTA template with sea.
 
@@ -8,7 +10,7 @@ We start with Jebus Cross and try various stuff!
 
 ### Specifications
 
-Same as on [h3hota.com](http://h3hota.com/en/templates#xl-u-templates/jebus-cross) but size H is recommended. 
+This Jebus Cross got its desert divided into half and two additional zones created - right now classic 133k bioms - some banks etc.  
 
 ### Some Remarks
 
@@ -20,7 +22,7 @@ Same as on [h3hota.com](http://h3hota.com/en/templates#xl-u-templates/jebus-cros
 
 ### Instructions
 
-Fork & clone this repo inside yours `HotA_RMGTemplates' folder. Or [Download Zip](https://github.com/viamage/WaterJebus/archive/master.zip) and do the same.
+Fork & clone this repo inside yours `HotA_RMGTemplates' folder or download zip and do the same.
 
 
 ### Contribution
