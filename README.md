@@ -1,6 +1,6 @@
 # Water Jebus
 
-![water_jebus](https://github.com/viamage/WaterJebus)
+![water_jebus](https://i.viamage.com/jz/snapshot-2020-04-20-18-28-33.png)
 
 This template is attempt to make a working H3 HoTA template with sea.
 
