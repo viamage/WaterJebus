@@ -1,10 +1,16 @@
 # Water Jebus
 
+![water_jebus](https://github.com/viamage/WaterJebus)
+
 This template is attempt to make a working H3 HoTA template with sea.
 
 We start with Jebus Cross and try various stuff!
 
-### Issues
+### Specifications
+
+Same as on [h3hota.com](http://h3hota.com/en/templates#xl-u-templates/jebus-cross) but size H is recommended. 
+
+### Some Remarks
 
 - Sea generation is basically non-configurable in H3 HoTA mod, that makes it really painful to make "worth exploring".
 
@@ -12,7 +18,13 @@ We start with Jebus Cross and try various stuff!
 
 - It's quite hard to force multiple zones to "repulse each other", causes players' islands to be generated near each other. 
 
+### Instructions
+
+Fork & clone this repo inside yours `HotA_RMGTemplates' folder. Or [Download Zip](https://github.com/viamage/WaterJebus/archive/master.zip) and do the same.
+
 
 ### Contribution
 
 Fork, make a ticket for discussions and PR of your local version to develop branch!
+
+Keep description of changes in the commit message. 
