@@ -4,6 +4,8 @@
 
 ![water_jebus](https://i.viamage.com/jz/snapshot-2020-04-20-18-50-41.png)
 
+![water_jebus scheme](https://i.viamage.com/jz/snapshot-2020-04-20-18-53-22.png)
+
 This template is attempt to make a working H3 HoTA template with sea.
 
 We start with Jebus Cross and try various stuff!
