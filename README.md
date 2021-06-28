@@ -21,7 +21,10 @@ We start with Jebus Cross and try various stuff!
 
 ### Specifications
 
-Same as on [h3hota.com](http://h3hota.com/en/templates#xl-u-templates/jebus-cross) but size H is recommended. 
+Same as on [h3hota.com](http://h3hota.com/en/templates#xl-u-templates/jebus-cross) but:
+
+- Water: Islands
+- Recommended Size: H
 
 ### Some Remarks
 
