@@ -6,6 +6,10 @@ This template is attempt to make a working H3 HoTA template with sea.
 
 We start with Jebus Cross and try various stuff!
 
+### Updates
+
+
+
 ### Specifications
 
 Same as on [h3hota.com](http://h3hota.com/en/templates#xl-u-templates/jebus-cross) but size H is recommended. 
